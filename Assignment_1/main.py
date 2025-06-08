@@ -74,7 +74,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 preprocessor = Preprocessing()
-glove_model = Glove("/home/pranjal/LLM/Assignment_1/glove.6B.300d.txt")
+glove_model = Glove("Glove_file_path")
 
 # Check if API is running. 
 
