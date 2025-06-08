@@ -27,7 +27,7 @@ This project provides a comprehensive toolkit for common Natural Language Proces
 
 ## Project Structure (Example)
 
-your_project_root/
+
 ├── main.py                 # FastAPI application (backend API)
 ├── streamlit_app.py        # Streamlit application (frontend UI)
 ├── embeddings.py           # Glove class for loading and working with embeddings
